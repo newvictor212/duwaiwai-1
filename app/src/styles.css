@@ -1,8 +1,8 @@
 :root {
   --bg: radial-gradient(circle at 20% 20%, #111827 0%, #0b1220 35%, #05080f 100%);
-  --panel: #0f172a;
-  --border: rgba(255, 255, 255, 0.08);
-  --text-primary: #f8fafc;
+  --panel: #0537ac;
+  --border: rgba(209, 106, 106, 0.08);
+  --text-primary: #d5fa6f;
   --text-secondary: #cbd5e1;
   --accent: #38bdf8;
   --accent-soft: rgba(56, 189, 248, 0.12);
